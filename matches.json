@@ -1,1 +1,19 @@
-
+[
+  {
+   "descricao": "CBLOL 2022",
+   "mapa": {
+    "nome": "Summoner's Rift",
+    "imagem": "TODO"
+   },
+    "primario": {
+      "nome": "Bifrost",
+      "Força": 5,
+      "imagem": "TODO"
+    },
+    "secundario": {
+      "nome": "Team Refuse",
+      "Força": 5,
+      "imagem": "TODO"
+    }
+  }
+]
