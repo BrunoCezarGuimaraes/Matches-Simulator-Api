@@ -8,12 +8,12 @@
     "primario": {
       "nome": "Bifrost",
       "Força": 5,
-      "imagem": "TODO"
+      "imagem": "https://pbs.twimg.com/profile_images/1516330610004045826/-dFGL-jZ_400x400.jpg"
     },
     "secundario": {
       "nome": "Team Refuse",
       "Força": 5,
-      "imagem": "TODO"
+      "imagem": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4d/Team_Refuselogo_square.png/"
     }
   }
 ]
