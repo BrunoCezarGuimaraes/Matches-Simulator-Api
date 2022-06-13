@@ -12,8 +12,42 @@
     },
     "secundario": {
       "nome": "Team Refuse",
-      "forca": 5,
+      "forca": 4,
       "imagem": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4d/Team_Refuselogo_square.png/"
+    }
+  },
+  {
+   "descricao": "CBLOL 2022",
+   "mapa": {
+    "nome": "Summoner's Rift",
+    "imagem": "TODO"
+   },
+    "primario": {
+      "nome": "Goskilla",
+      "forca": 4,
+      "imagem": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8c/Goskillalogo_profile.png/"
+    },
+    "secundario": {
+      "nome": "Ago Rogue",
+      "forca": 3,
+      "imagem": "https://yt3.ggpht.com/AOAuW8Kn9bG_R5zwVhklgaqUPJoDow7No2G0nl3SmPIxi0vCAaZpk4OK4k-TDcnd7iGfcfqQBw=s900-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+   "descricao": "CBLOL 2022",
+   "mapa": {
+    "nome": "Summoner's Rift",
+    "imagem": "TODO"
+   },
+    "primario": {
+      "nome": "Esca Gaming",
+      "forca": 4,
+      "imagem": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_ESCA_Gaminglogo_square.png"
+    },
+    "secundario": {
+      "nome": "Forsaken",
+      "forca": 5,
+      "imagem": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Forsaken_%28Polish_Team%29logo_square.png/"
     }
   }
 ]
